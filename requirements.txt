@@ -1,0 +1,13 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart>=0.0.5
+pymupdf>=1.19.0
+llama-index>=0.10.0
+llama-index-core>=0.10.0
+openai>=1.0.0
+requests>=2.26.0
+python-dotenv>=0.19.0
+typing>=3.7.4
+pathlib>=1.0.1
+logging>=0.5.1
+pydantic>=1.8.2
